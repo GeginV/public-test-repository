@@ -1,1 +1,1 @@
-sample text
+If you merge you just copy things that are not repeated. If the things are repeated, they don't get overwritten
